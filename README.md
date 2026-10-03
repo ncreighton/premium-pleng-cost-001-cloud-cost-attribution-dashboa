@@ -1,0 +1,2 @@
+# premium-pleng-cost-001-cloud-cost-attribution-dashboa
+Your engineering team is shipping faster than ever, but your cloud bill is becoming a mystery. Without proper cost attribution, you're flying blind—unable to see which services, teams, or projects are actually driving expenses.  The Cloud Cost Attribution Dashboard transforms your cloud spending from an opaque black box into a transparent, actionab
